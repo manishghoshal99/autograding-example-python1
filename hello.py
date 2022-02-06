@@ -1,2 +1,2 @@
-def hello_world():
+def Squaring_Num():
     return "Hello!"
