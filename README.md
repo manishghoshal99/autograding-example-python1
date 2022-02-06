@@ -1,14 +1,7 @@
-# Autograding Example: Python
-This example project is written in Python, and tested with pytest.
+# Assignment-1: Basics in Python programming
+Fix the bug in the following program.
 
-### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
+1.	userNum = 3
+2.	userNumSquared = userNum + userNum   # Bug here; fix it when instructed
+3.	print(userNumSquared, end=' ')       # Output formatting issue here; fix it when instructed
 
-### Setup command
-`sudo -H pip3 install pytest`
-
-### Run command
-`pytest`
-
-### Notes
-- pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be unaccessible.
