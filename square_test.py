@@ -1,5 +1,5 @@
 import square
 
 def test_square():
-    assert square.squaring_num() == "  NO PARKING \n2:00 - 6:00 a.m."
+    assert square.squaring_num() == "Eric went to Chipotle to buy 12 different types of cars"
 
