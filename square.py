@@ -1,8 +1,8 @@
 def squaring_num():
     total_coins = 0
 
-    nickel_count = int(input())
-    dime_count = int(input())
+    nickel_count = 100
+    dime_count = 200
 
     ''' Your solution goes here '''
 
