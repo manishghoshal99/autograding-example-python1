@@ -1,5 +1,5 @@
 import square
 
 def test_square():
-    assert square.squaring_num() == 300
+    assert square.squaring_num() == 100
 
