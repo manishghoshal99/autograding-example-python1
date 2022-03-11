@@ -1,13 +1,11 @@
 def squaring_num():
-    total_coins = 0
-
-    nickel_count = 100
-    dime_count = 200
+    cell_count = int(input())
 
     ''' Your solution goes here '''
 
-    print(total_coins)
+    print(cell_count)
+
 
 
     #return the final output_string variable without fail
-    return total_coins
+    return cell_count
